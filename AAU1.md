@@ -4,12 +4,7 @@
 
 ---
 
-## Descripción
-
-[Coloca aquí una breve descripción de la actividad correspondiente a esta sección]
-
 ## Documento
 
-[Sube tu archivo PDF a este repositorio y coloca aquí el enlace, por ejemplo:]
+[Portafolio de aprendizaje (1).pdf](https://github.com/user-attachments/files/30053404/Portafolio.de.aprendizaje.1.pdf)
 
-[📄 AAU1.pdf](./AAU1.pdf)
