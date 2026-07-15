@@ -3,15 +3,6 @@
 ### [Volver al Portafolio](Portafolio.md)
 
 ---
-# Portafolio de aprendizaje
-
-* **Asignatura:** Matemáticas Discretas
-* **Estudiante:** Jhoan Rojas
-* **Docente:** Mario Cueva Hurtado
-* **Carrera:** Computación
-* **Periodo:** Marzo – Agosto
-
----
 
 ## 1. Resumen teórico
 
