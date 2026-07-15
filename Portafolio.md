@@ -1,20 +1,24 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7f9664b73b839a6d23f9e936ae2b7bf1f305961444c287264b443d7c7c444d56/68747470733a2f2f726564692e63656469612e6564752e65632f6d656d626572732f554e4c2e706e67" alt="Universidad Nacional de Loja" width="120">
+</p>
+
 # **Portafolio Digital**
 
-### **[Nombre de tu Universidad]**
+### **Universidad Nacional De Loja**
 
-### **[Nombre de tu Facultad]**
+### **Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables**
 
-### **[Nombre de tu Carrera]**
+### **Carrera de Computación**
 
-### **[Nombre de la Materia/Asignatura]**
+### **Matemáticas Discretas**
 
-### **Docente: [Nombre del Docente]**
+### **Docente: Ing. Mario Enrique Cueva Hurtado**
 
-### **Estudiante: [Tu Nombre Completo]**
+### **Estudiante: Jhoan Alexander Rojas Guamán**
 
-### **[Ciclo]**
+### **Primer Ciclo**
 
-### **Período académico [Período Académico]**
+### **Período académico Marzo - Agosto 2026**
 
 ---
 
