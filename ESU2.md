@@ -4,12 +4,9 @@
 
 ---
 
-## Descripción
-
-[Coloca aquí una breve descripción de la actividad correspondiente a esta sección]
 
 ## Documento
 
-[Sube tu archivo PDF a este repositorio y coloca aquí el enlace, por ejemplo:]
+[Tail-Eliminate .pdf](https://github.com/user-attachments/files/30053769/Tail-Eliminate.2.pdf)
 
-[📄 ESU2.pdf](./ESU2.pdf)
+[Video Tail-Eliminate.pdf](https://github.com/user-attachments/files/30053774/Video.Tail-Eliminate.pdf)
