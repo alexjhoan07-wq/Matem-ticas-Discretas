@@ -4,7 +4,7 @@
 
 ---
 
-# Unidad 3: Teoría de Grafos y Árboles
+Teoría de Grafos y Árboles
 
 
 ---
