@@ -4,9 +4,6 @@
 
 ---
 
-## Descripción
-
-[Coloca aquí una breve descripción de la actividad correspondiente a esta sección]
 
 ## Documento
 
