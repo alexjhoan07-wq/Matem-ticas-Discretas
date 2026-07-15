@@ -158,10 +158,6 @@ Se modeló una red de distribución de datos de una pequeña oficina compuesta p
 - **Grado de Conexión:** El grafo que modela la oficina es conexo, lo que asegura que todas las terminales disponen de un canal de comunicación activo con la red.
 - **Nodos Críticos:** Tras realizar pruebas de conectividad, se determinó que los nodos "Switch_1", "Router_Core" y "Switch_2" son esenciales. Una falla en cualquiera de estos puntos provocaría la desconexión total de amplios sectores de la oficina.
 
-### Resultado del análisis
-Aplicando el algoritmo de Dijkstra, se calculó la ruta más eficiente y con menor pérdida de tiempo (menor latencia acumulada) para transmitir un paquete desde el "Servidor" hasta el nodo "Firewall". La secuencia óptima identificada fue:
-$$\text{Servidor} \rightarrow \text{Switch\_1} \rightarrow \text{Router\_Core} \rightarrow \text{Switch\_2} \rightarrow \text{Firewall}$$
-Garantizando un tiempo mínimo de respuesta de **15 ms**.
 
 ---
 
