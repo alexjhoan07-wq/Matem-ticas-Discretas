@@ -4,12 +4,9 @@
 
 ---
 
-## Descripción
-
-[Coloca aquí una breve descripción de la actividad correspondiente a esta sección]
 
 ## Documento
 
-[Sube tu archivo PDF a este repositorio y coloca aquí el enlace, por ejemplo:]
+[ACD 1 (1).pdf](https://github.com/user-attachments/files/30053560/ACD.1.1.pdf)
 
-[📄 ACDU2.pdf](./ACDU2.pdf)
+
