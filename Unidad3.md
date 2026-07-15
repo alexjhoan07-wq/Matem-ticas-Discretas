@@ -4,7 +4,7 @@
 
 ---
 
-# Portafolio de Aprendizaje - Unidad 3: Teoría de Grafos y Árboles
+# Unidad 3: Teoría de Grafos y Árboles
 
 
 ---
